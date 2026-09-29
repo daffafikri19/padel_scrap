@@ -1,0 +1,505 @@
+[
+    {
+        "name": "SAMARA Padel Club",
+        "location": {
+            "address": "Jl. Qadr Raya No.14, Klp. Dua, Kecamatan Kelapa Dua, Kota Tangerang, Banten 15810, Indonesia",
+            "city": "Kota Tangerang",
+            "province": "Banten",
+            "latitude": null,
+            "longitude": null
+        },
+        "criteria": {
+            "starting_price_idr": 120000,
+            "rating": 4.9,
+            "rating_count": 10,
+            "review_count": 1,
+            "cleanliness_rating": 5.0,
+            "court_condition_rating": 4.8,
+            "facilities": [
+                "Hot Shower",
+                "Jual Makanan Ringan",
+                "Jual Minuman",
+                "Parkir Mobil",
+                "Parkir Motor",
+                "Shower",
+                "Ruang Ganti",
+                "Toilet",
+                "Cafe & Resto",
+                "Wi-fi"
+            ],
+            "lighting_evidence": null,
+            "surface_evidence": null,
+            "coach": {
+                "available": null,
+                "evidence": null
+            }
+        },
+        "description": "SAMARA Padel Court Every rally tells a story. Di SAMARA, kami menciptakan lebih dari sekadar lapangan padel. Kami menghadirkan tempat di mana persahabatan dimulai, kompetisi tumbuh dengan sportivitas, dan setiap pertandingan menjadi pengalaman yang ingin diulang. Baik datang bersama teman, keluarga, maupun komunitas, SAMARA adalah tempat untuk bergerak, berkembang, dan berbagi semangat yang sama. Where every game feels like home.",
+        "rules": "Sebelum Bermain 1. Datang minimal 10–15 menit sebelum waktu booking. 2. Gunakan sepatu olahraga non-marking (tidak merusak permukaan lapangan). 3. Lakukan pemanasan sebelum bermain untuk mengurangi risiko cedera. 4. Booking dianggap dimulai sesuai jadwal, keterlambatan tidak menambah waktu bermain. Kebersihan 5. Dilarang membawa makanan ke dalam lapangan. 6. Minuman hanya diperbolehkan dalam botol tertutup. 7. Buang sampah pada tempatnya. 8. Dilarang merokok, vaping, atau menggunakan rokok elektrik di dalam area lapangan. Keamanan 9. Anak-anak harus dalam pengawasan orang tua di luar area bermain. 10. SAMARA tidak bertanggung jawab atas kehilangan barang pribadi. 11. Penggunaan fasilitas dilakukan atas risiko masing-masing pemain. Booking & Pembatalan 12. Pembayaran dilakukan sebelum bermain. 13. Pembatalan atau reschedule mengikuti kebijakan SAMARA. 14. Waktu bermain berakhir sesuai jadwal agar tidak mengganggu booking berikutnya. Menjaga Fasilitas 15. Perlakukan seluruh fasilitas dengan baik. 16. Kerusakan akibat kelalaian pengguna dapat dikenakan biaya penggantian. 17. Ikuti arahan staf SAMARA demi kenyamanan bersama.",
+        "images": [
+            "https://asset.ayo.co.id/image/venue/178428070694297.image_cropper_E6852ED3-4A3D-490A-A0D8-18AA9658C469-61960-00001DD65E1FA001.jpg_large.jpeg",
+            "https://asset.ayo.co.id/image/venue/178460750766352.image_cropper_182E2276-9E69-438D-AC81-18C429254676-877-0000003A56346E1A.jpg_medium.jpeg",
+            "https://asset.ayo.co.id/image/venue/178460750828794.image_cropper_B8CAA485-B2EC-425B-AD88-59154112F64A-877-0000003A6911BF1F.jpg_medium.jpeg",
+            "https://asset.ayo.co.id/image/venue/178460751546514.image_cropper_13F15EF1-BA52-43FA-8528-384FF1418E7D-877-0000003AACB8755A.jpg.jpeg",
+            "https://asset.ayo.co.id/image/venue/178460751837471.image_cropper_B0EF7DB7-68AF-4C56-BF07-AF9A18271183-877-0000003AD4E8570B.jpg.jpeg",
+            "https://asset.ayo.co.id/image/venue/178460751927111.image_cropper_BBE69BBF-100E-4E0F-A1A7-B3D39359999D-877-0000003AF39CF2C0.jpg.jpeg",
+            "https://asset.ayo.co.id/image/venue/178460753021614.image_cropper_66F4E140-944D-4B25-98D5-28DA02A55E79-877-0000003B0F408982.jpg.jpeg"
+        ],
+        "source": {
+            "platform": "AYO Indonesia",
+            "url": "https://ayo.co.id/v/samara-padel-club"
+        },
+        "scraped_at": "2026-09-20T21:36:49+07:00"
+    },
+    {
+        "name": "Scoot Padel",
+        "location": {
+            "address": "Scoot Padel, Jl. Moh. Toha, RT.001/RW.002, Periuk Jaya, Kec. Periuk, Kota Tangerang, Banten 15131, Indonesia",
+            "city": "Kota Tangerang",
+            "province": "Banten",
+            "latitude": null,
+            "longitude": null
+        },
+        "criteria": {
+            "starting_price_idr": 150000,
+            "rating": 5.0,
+            "rating_count": 39,
+            "review_count": 9,
+            "cleanliness_rating": 4.95,
+            "court_condition_rating": 4.92,
+            "facilities": [
+                "Cafe & Resto",
+                "Jual Makanan Ringan",
+                "Jual Minuman",
+                "Parkir Motor",
+                "Parkir Mobil",
+                "Ruang Ganti",
+                "Toilet",
+                "Shower",
+                "Wi-fi"
+            ],
+            "lighting_evidence": null,
+            "surface_evidence": null,
+            "coach": {
+                "available": null,
+                "evidence": null
+            }
+        },
+        "description": "Hanya di Scoot Padel, arena untuk melepas penat, meningkatkan skill, dan menikmati olahraga yang seru tanpa batas dengan 2 lapangan premium",
+        "rules": "RULES SCOOT PADEL Dengan memasuki area Scoot Padel, Anda dianggap telah menyetujui seluruh syarat dan ketentuan yang berlaku. - Dilarang membawa makanan dari luar dalam bentuk atau jenis apapun. - Pemain diharapkan tiba tepat waktu. Waktu bermain akan berlangsung sesuai jadwal dan tidak ada penambahan waktu. - Wajib menggunakan pakaian olahraga yang sesuai serta sepatu khusus olahraga. - Setiap pemain harus dalam kondisi sehat. Scoot Padel tidak bertanggung jawab atas kecelakaan, cedera, atau kondisi medis lainnya dari para pemain. - Diperbolehkan membawa pelatih (coach) dari luar Scoot Padel. - Diperbolehkan membawa mesin pelontar bola (padel ball machine) dari luar Scoot Padel. - Dilarang membawa hewan peliharaan dalam bentuk atau jenis apapun. - Dilarang keras menggunakan atau membawa narkoba dalam bentuk apapun, apabila melanggar akan kita laporkan kepada pihak berwajib dan diproses secara hukum. - Dilarang membawa senjata api, senjata tajam, atau benda berbahaya lainnya, apabila melanggar akan kita laporkan kepada pihak berwajib dan diproses secara hukum. - Dilarang membuang permen karet, rokok, makanan, atau minuman ke dalam area lapangan dan akan dikenakan denda sebesar Rp. 5.000.000.- - Dilarang terlibat dalam perkelahian atau membuat keributan di area Scoot Padel. - Kehilangan atau kerusakan barang pribadi bukan tanggung jawab Scoot Padel. - Segala tindakan merusak seperti meludah sembarangan, melempar raket ke kaca, atau merusak fasilitas akan dikenakan sanksi ganti rugi sesuai ketentuan. - Seluruh kebijakan dan keputusan manajemen Scoot Padel bersifat mutlak dan tidak dapat diganggu gugat. Catatan: Peraturan ini dibuat demi menjaga kenyamanan dan keamanan seluruh pemain. Terima kasih atas perhatian dan kerja samanya.",
+        "images": [
+            "https://asset.ayo.co.id/image/venue/177813711430681.image_cropper_1778137022105.jpg_large.jpeg",
+            "https://asset.ayo.co.id/image/venue/176542504836358.image_cropper_1765425040073.jpg_medium.jpeg",
+            "https://asset.ayo.co.id/image/venue/177806502741903.image_cropper_1778065010074.jpg_medium.jpeg",
+            "https://asset.ayo.co.id/image/venue/177806501730679.image_cropper_1778064973374.jpg.jpeg",
+            "https://asset.ayo.co.id/image/venue/177910767997307.image_cropper_1779107631036.jpg.jpeg",
+            "https://asset.ayo.co.id/image/venue/177910768147107.image_cropper_1779107659400.jpg.jpeg"
+        ],
+        "source": {
+            "platform": "AYO Indonesia",
+            "url": "https://ayo.co.id/v/scoot-padel"
+        },
+        "scraped_at": "2026-09-20T21:37:03+07:00"
+    },
+    {
+        "name": "Fix Padel",
+        "location": {
+            "address": "Jl. AMD X No.35, RT.001/RW.009, Kreo, Kec. Larangan, Kota Tangerang, Banten 15516, Indonesia",
+            "city": "Kota Tangerang",
+            "province": "Banten",
+            "latitude": null,
+            "longitude": null
+        },
+        "criteria": {
+            "starting_price_idr": 75000,
+            "rating": 5.0,
+            "rating_count": 85,
+            "review_count": 40,
+            "cleanliness_rating": 4.96,
+            "court_condition_rating": 4.94,
+            "facilities": [
+                "Cafe & Resto",
+                "Jual Makanan Ringan",
+                "Hot Shower",
+                "Jual Minuman",
+                "Musholla",
+                "Parkir Mobil",
+                "Parkir Motor",
+                "Ruang Ganti",
+                "Shower",
+                "Toilet",
+                "Wi-fi"
+            ],
+            "lighting_evidence": null,
+            "surface_evidence": null,
+            "coach": {
+                "available": null,
+                "evidence": null
+            }
+        },
+        "description": "FIX PADEL The Most Complete & Enjoyable Sport-Lifestyle Club FIX PADEL is a modern sports and lifestyle club that brings together padel, pilates, yoga, and a café in one location. Designed as a one-stop solution Featuring super-flat, high-quality padel courts, FIX PADEL delivers a comfortable, stable, and premium playing experience for both beginners and experienced players.",
+        "rules": "PERATURAN FIX CLUB 1. Pemain datang tepat waktu diharapkan 15 menit sebelum mulai. Booking lapangan tidak dapat dibatalkan ( non - refundable ) 2. Tidak ada penambahan waktu untuk keterlambatan dari pihak pemain. 3. Gunakan peralatan olahraga yang telah disediakan dan ditentukan oleh pihak venue. 4. Sewa loker free, namun Loker diharapkan membawa Gembok dan kunci pribadi masing- masing. 5. Disarankan menggunakan sepatu olahraga yang sesuai, khususnya sepatu padel, demi keamanan dan kenyamanan bermain. 6. Dilarang membawa hewan peliharaan ke dalam Fix Club. 7. Fix club tidak menyediakan bola, untuk pembelian Bola di Fix Club bisa dilakukan di kasir. 8. Dilarang merokok di area lapangan. → Rokok elektrik (vape)dan Iqos hanya diperbolehkan di area yang telah ditentukan. 9. Manajemen tidak bertanggung jawab atas cedera yang terjadi selama aktivitas serta kehilangan atau kerusakan barang pribadi. 10.Setiap kerusakan fasilitas akan dikenakan biaya sesuai dengan ketentuan yang berlaku. 11. Dilarang membawa minuman keras dan obat-obatan terlarang dan senjata tajam ataupun yang melanggar hukum. 12. Dilarang makan dan minum di area lapangan. 13. Dilarang membuat keributan, melakukan tindakan kekerasan, perkelahian, atau aktivitas lain yang dapat mengganggu kenyamanan pengunjung lain. 14. Diharapkan Pemain dalam kondisi sehat (Jika pemain mengalami sakit/ cedera yang sudah dialami sebelumnya dan terjadi hal-hal yang tidak diinginkan ) peristiwa tersebut diluar tanggung jawab Fix Club. 15. Dilarang membuang sampah sembarangan. Harap jaga kebersihan area Fix Club. Terima Kasih . Here is the **complete, clear, and professional English translation** of the Fix Club rules: --- FIX CLUB RULES & REGULATIONS 1. Players are expected to arrive on time, at least 15 minutes before the scheduled start time. Court bookings are non-refundable and cannot be canceled. 2. No additional playing time will be granted for delays caused by players. 3. Please use sports equipment provided and approved by the venue. 4. Locker rental is free; however, players are required to bring their own padlock and key. 5. Players are advised to wear appropriate sports footwear, especially padel shoes, for safety and comfort. 6. Pets are not allowed inside Fix Club. 7. Fix Club does not provide balls. Balls are available for purchase at the cashier. 8. Smoking is strictly prohibited in the court area.Electronic cigarettes (vape) and IQOS are only permitted in designated areas. 9. Management is not responsible for any injuries sustained during activities or for the loss or damage of personal belongings. 10. Any damage to facilities will be charged according to applicable regulations. 11. Alcoholic beverages, illegal drugs, sharp objects, or any items prohibited by law are strictly forbidden. 12. Eating and drinking are not allowed in the court area. 13. Any form of disturbance, violence, fighting, or behavior that disrupts the comfort of other guests is strictly prohibited. 14. Players are expected to be in good health. Any incidents resulting from pre-existing illness or injury are outside the responsibility of Fix Club. 15. Littering is prohibited. Please help maintain cleanliness throughout the Fix Club area. Thank you. ---",
+        "images": [
+            "https://asset.ayo.co.id/image/venue/178884110748918.image_cropper_1788841086142.jpg_large.jpeg",
+            "https://asset.ayo.co.id/image/venue/177099346571583.image_cropper_1770993440289.jpg_medium.jpeg",
+            "https://asset.ayo.co.id/image/venue/177099361948102.image_cropper_1770993496263.jpg_medium.jpeg",
+            "https://asset.ayo.co.id/image/venue/177099362056330.image_cropper_1770993572174.jpg.jpeg",
+            "https://asset.ayo.co.id/image/venue/177099362516989.image_cropper_1770993606801.jpg.jpeg",
+            "https://asset.ayo.co.id/image/venue/177099379317090.image_cropper_1770993757873.jpg.jpeg",
+            "https://asset.ayo.co.id/image/venue/177632538873571.image_cropper_341887EB-1594-4C6B-B6FD-74E84B32A6AF-11631-00000183182A53B1.jpg.jpeg",
+            "https://asset.ayo.co.id/image/venue/177632539528567.image_cropper_461387B5-ED6F-4490-A834-7B7AFC81D451-11631-00000183391743F9.jpg.jpeg"
+        ],
+        "source": {
+            "platform": "AYO Indonesia",
+            "url": "https://ayo.co.id/v/fix-padel"
+        },
+        "scraped_at": "2026-09-20T21:37:13+07:00"
+    },
+    {
+        "name": "Arpatra Racquet Club",
+        "location": {
+            "address": "Gg. Kancil No.13, RT.004/RW.005, Neroktog, Kec. Pinang, Kota Tangerang, Banten 15145, Indonesia",
+            "city": "Kota Tangerang",
+            "province": "Banten",
+            "latitude": null,
+            "longitude": null
+        },
+        "criteria": {
+            "starting_price_idr": 75000,
+            "rating": 4.9,
+            "rating_count": 197,
+            "review_count": 21,
+            "cleanliness_rating": 4.92,
+            "court_condition_rating": 4.86,
+            "facilities": [
+                "Cafe & Resto",
+                "Hot Shower",
+                "Jual Makanan Ringan",
+                "Jual Minuman",
+                "Musholla",
+                "Parkir Mobil",
+                "Parkir Motor",
+                "Ruang Ganti",
+                "Shower",
+                "Toilet",
+                "Wi-fi"
+            ],
+            "lighting_evidence": null,
+            "surface_evidence": null,
+            "coach": {
+                "available": null,
+                "evidence": null
+            }
+        },
+        "description": "📍 Mau ke Arpatra Racquet? Jangan bingung, cukup pakai link ini aja dari tempat kalian berangkat ya👉 https://maps.app.goo.gl/wLV4D4nfa464XkjSA ✨ Kenapa pakai link ini? ✅ Lewat jalan besar yang nyaman buat mobil ✅ Aman, nggak masuk gang sempit kayak Gang ✅ Ada papan petunjuk “Arpatra Racquet”, jadi gampang banget nemuin lokasinya Ayo, tinggal klik link-nya, ikuti petunjuk, dan langsung sampai deh! 🚗🎾",
+        "rules": "Menjaga Kebersihan",
+        "images": [
+            "https://asset.ayo.co.id/image/venue/175794072928534.image_cropper_FC17F581-B379-4CB6-A5CB-79ABF3743F79-7416-00000163CE46E0EF.jpg_large.jpeg",
+            "https://asset.ayo.co.id/image/venue/175776704382042.image_cropper_1248312B-63C1-406A-A1FB-A9383218A12C-21041-000005489699D916.jpg_medium.jpeg",
+            "https://asset.ayo.co.id/image/venue/175776704586036.image_cropper_EA70E27E-27B0-4B39-96C2-3F5526A260EA-21041-00000548B6618114.jpg_medium.jpeg",
+            "https://asset.ayo.co.id/image/venue/175776704852470.image_cropper_19B1EF5D-9079-4DEF-A2D0-B945A4B438C5-21041-00000548E87F1F50.jpg.jpeg"
+        ],
+        "source": {
+            "platform": "AYO Indonesia",
+            "url": "https://ayo.co.id/v/arpatra-racquet-club"
+        },
+        "scraped_at": "2026-09-20T21:38:11+07:00"
+    },
+    {
+        "name": "Cancha Padel",
+        "location": {
+            "address": "Jl. Imam Bonjol No.61, RT.001/RW.004, Panunggangan Bar., Kec. Cibodas, Kota Tangerang, Banten 15138, Indonesia",
+            "city": "Kota Tangerang",
+            "province": "Banten",
+            "latitude": null,
+            "longitude": null
+        },
+        "criteria": {
+            "starting_price_idr": 100000,
+            "rating": 5.0,
+            "rating_count": 68,
+            "review_count": 34,
+            "cleanliness_rating": 4.97,
+            "court_condition_rating": 4.94,
+            "facilities": [
+                "Cafe & Resto",
+                "Jual Minuman",
+                "Parkir Mobil",
+                "Parkir Motor",
+                "Ruang Ganti",
+                "Shower",
+                "Toilet",
+                "Wi-fi"
+            ],
+            "lighting_evidence": null,
+            "surface_evidence": null,
+            "coach": {
+                "available": null,
+                "evidence": null
+            }
+        },
+        "description": "The Aesthetic Home of Private Racket Sports",
+        "rules": "Welcome to Cancha Padel -Your \"Home of Racket Sports\"- 1. Mohon menjaga kebersihan, kenyamanan, dan menghormati sesama pemain selama berada di area venue. 2. Area parkir tersedia di Cancha Padel maupun Foodmosphere. Mohon memarkir kendaraan dengan tertib sesuai arahan petugas parkir. 3. Untuk menjaga kualitas layanan dan kebersihan area venue, makanan dan minuman tertentu dari luar tidak diperkenankan. 4. Mohon menggunakan seluruh fasilitas venue dengan baik. Kerusakan akibat kelalaian pengguna dapat dikenakan biaya penggantian. 5. Demi keselamatan dan kualitas lapangan, mohon menggunakan sepatu olahraga yang sesuai saat bermain. 6. Bagi pengunjung yang membawa anak-anak, mohon tetap dalam pengawasan orang tua atau pendamping. Ruang anak tersedia untuk kenyamanan keluarga. 7. Locker tersedia untuk kenyamanan pengunjung. Mohon menjaga barang pribadi masing-masing. Kehilangan barang pribadi menjadi tanggung jawab pemilik barang.",
+        "images": [
+            "https://asset.ayo.co.id/image/venue/178953132786193.image_cropper_1789531312252.jpg_large.jpeg",
+            "https://asset.ayo.co.id/image/venue/178046193446147.image_cropper_1780461849491.jpg_medium.jpeg",
+            "https://asset.ayo.co.id/image/venue/178726512123586.image_cropper_1787265106509.jpg_medium.jpeg",
+            "https://asset.ayo.co.id/image/venue/178055534772985.image_cropper_1780555272344.jpg.jpeg",
+            "https://asset.ayo.co.id/image/venue/178522380143498.image_cropper_1785223777321.jpg.jpeg",
+            "https://asset.ayo.co.id/image/venue/178726662677933.image_cropper_1787266601674.jpg.jpeg",
+            "https://asset.ayo.co.id/image/venue/178046105720858.image_cropper_1780460896954.jpg.jpeg",
+            "https://asset.ayo.co.id/image/venue/178179259799359.image_cropper_1781792571786.jpg.jpeg",
+            "https://asset.ayo.co.id/image/venue/178046446677943.image_cropper_1780464441332.jpg.jpeg",
+            "https://asset.ayo.co.id/image/venue/178046403719919.image_cropper_1780464006368.jpg.jpeg",
+            "https://asset.ayo.co.id/image/venue/178111271655012.image_cropper_1781112666303.jpg.jpeg",
+            "https://asset.ayo.co.id/image/venue/178111271746441.image_cropper_1781112695766.jpg.jpeg"
+        ],
+        "source": {
+            "platform": "AYO Indonesia",
+            "url": "https://ayo.co.id/v/cancha-padel"
+        },
+        "scraped_at": "2026-09-20T21:38:24+07:00"
+    },
+    {
+        "name": "Metropolis Padel Court",
+        "location": {
+            "address": "RJ3P+6W7, RT.003/RW.006, Klp. Indah, Kec. Tangerang, Kota Tangerang, Banten 15117, Indonesia",
+            "city": "Kota Tangerang",
+            "province": "Banten",
+            "latitude": null,
+            "longitude": null
+        },
+        "criteria": {
+            "starting_price_idr": 100000,
+            "rating": 4.9,
+            "rating_count": 17,
+            "review_count": 4,
+            "cleanliness_rating": 4.88,
+            "court_condition_rating": 4.82,
+            "facilities": [
+                "Cafe & Resto",
+                "Hot Shower",
+                "Jual Makanan Ringan",
+                "Jual Minuman",
+                "Musholla",
+                "Parkir Mobil",
+                "Parkir Motor",
+                "Ruang Ganti",
+                "Shower",
+                "Toilet"
+            ],
+            "lighting_evidence": null,
+            "surface_evidence": null,
+            "coach": {
+                "available": null,
+                "evidence": null
+            }
+        },
+        "description": "4 Lapangan Padel di dalam Mall Metropolis Lt 3",
+        "rules": "..",
+        "images": [
+            "https://asset.ayo.co.id/image/venue/178427830822254.image_cropper_6E5F6AE6-9BBE-4B3F-B0A7-1BC75619914F-9266-0000032BFDD7CCB5.jpg_large.jpeg",
+            "https://asset.ayo.co.id/image/venue/178427830994211.image_cropper_401EB1ED-686A-4373-9EF3-7A076B407BDB-9266-0000032C1B1C5BE0.jpg_medium.jpeg",
+            "https://asset.ayo.co.id/image/venue/178427831157895.image_cropper_5E6364D9-9EF7-4233-B73E-22738F60B896-9266-0000032C47D87BFD.jpg_medium.jpeg"
+        ],
+        "source": {
+            "platform": "AYO Indonesia",
+            "url": "https://ayo.co.id/v/metropolis-padel-court"
+        },
+        "scraped_at": "2026-09-20T21:38:35+07:00"
+    },
+    {
+        "name": "Nakata Sport Club",
+        "location": {
+            "address": "Nakata Sport Club, Jl. Ciledug Raya No.8, RT.001/RW.1, Kreo Selatan, Kec. Larangan, Kota Tangerang, Banten 15156, Indonesia",
+            "city": "Kota Tangerang",
+            "province": "Banten",
+            "latitude": null,
+            "longitude": null
+        },
+        "criteria": {
+            "starting_price_idr": 75000,
+            "rating": 4.6,
+            "rating_count": 73,
+            "review_count": 12,
+            "cleanliness_rating": 4.47,
+            "court_condition_rating": 4.4,
+            "facilities": [
+                "Jual Minuman",
+                "Jual Makanan Ringan",
+                "Parkir Mobil",
+                "Parkir Motor",
+                "Musholla",
+                "Ruang Ganti",
+                "Shower",
+                "Toilet"
+            ],
+            "lighting_evidence": null,
+            "surface_evidence": null,
+            "coach": {
+                "available": null,
+                "evidence": null
+            }
+        },
+        "description": "Nakata sport menyediakan lapangan padel sesuai standart FEP dengan tingkat kerataan surface lapangan yang benar2 flat sesuai standar eropa, sehingga sangat nyaman dalam bermain terdapat juga tribun penonton dan tersedia F n B.",
+        "rules": "1. Gunakan peralatan yang sesuai, seperti sepatu padel yang tepat. 2. Penonton harus menjaga jarak aman dari lapangan dan tidak mengganggu permainan. 3. Jaga kebersihan area lapangan dan fasilitas umum. 4. Hormati sesama pemain dan pengunjung 5. Bermainlah dengan menjaga keselamatan hindari secara sengaja membenturkan diri ke arah kaca. Resiko cedera akibat bermain, bukan tanggung jawab kami. 6. Dilarang membawa makanan dan minuman ke dalam area court. 7. Menyewa berarti menyetujui semua regulasi lapangan yang telah di issue oleh venue Nakata Sport Club.",
+        "images": [
+            "https://asset.ayo.co.id/image/venue/177626294753028.image_cropper_1776262891212.jpg_large.jpeg",
+            "https://asset.ayo.co.id/image/venue/175654171033040.image_cropper_1756541689211.jpg_medium.jpeg",
+            "https://asset.ayo.co.id/image/venue/175695038888503.image_cropper_1756950327288.jpg_medium.jpeg",
+            "https://asset.ayo.co.id/image/venue/175695038977961.image_cropper_1756950367743.jpg.jpeg"
+        ],
+        "source": {
+            "platform": "AYO Indonesia",
+            "url": "https://ayo.co.id/v/nakata-sport-club"
+        },
+        "scraped_at": "2026-09-20T21:39:02+07:00"
+    },
+    {
+        "name": "Buddy PadL Arena",
+        "location": {
+            "address": "Jl. H. Muchtar Raya Kav. Delima II No.54, RT.001/RW.012, Kreo, Kec. Larangan, Kota Tangerang, Banten 15156, Indonesia",
+            "city": "Kota Tangerang",
+            "province": "Banten",
+            "latitude": null,
+            "longitude": null
+        },
+        "criteria": {
+            "starting_price_idr": 90000,
+            "rating": 4.9,
+            "rating_count": 128,
+            "review_count": 29,
+            "cleanliness_rating": 4.89,
+            "court_condition_rating": 4.91,
+            "facilities": [
+                "Hot Shower",
+                "Cafe & Resto",
+                "Jual Makanan Ringan",
+                "Jual Minuman",
+                "Parkir Mobil",
+                "Parkir Motor",
+                "Ruang Ganti",
+                "Shower",
+                "Toilet",
+                "Wi-fi"
+            ],
+            "lighting_evidence": null,
+            "surface_evidence": null,
+            "coach": {
+                "available": null,
+                "evidence": null
+            }
+        },
+        "description": "6 Lapangan Padel Full Panoramic dan 3 Simulator (Tenis dan Padel) dengan kualitas Internasional",
+        "rules": null,
+        "images": [
+            "https://asset.ayo.co.id/image/venue/177563306792658.image_cropper_1775633052734.jpg_large.jpeg",
+            "https://asset.ayo.co.id/image/venue/176880041335997.image_cropper_0B8C8D77-D6FC-48FB-A2F7-8236A54B24A8-2228-000000B77E1ACD0D.jpg_medium.jpeg",
+            "https://asset.ayo.co.id/image/venue/176880041514275.image_cropper_8DC67612-266A-4F85-8307-403694BFFA93-2228-000000B792410EE9.jpg_medium.jpeg",
+            "https://asset.ayo.co.id/image/venue/176880042439192.image_cropper_6C9BD69F-E25E-4258-8ED8-BB0C3361115F-2228-000000B79FB981AC.jpg.jpeg"
+        ],
+        "source": {
+            "platform": "AYO Indonesia",
+            "url": "https://ayo.co.id/v/buddy-padl-arena"
+        },
+        "scraped_at": "2026-09-20T21:39:07+07:00"
+    },
+    {
+        "name": "High Score Padel",
+        "location": {
+            "address": "HIGH SCORE PADEL CLUB, Jl. Metland, RT.001/RW.005, Petir, Kec. Cipondoh, Kota Tangerang, Banten 15147, Indonesia",
+            "city": "Kota Tangerang",
+            "province": "Banten",
+            "latitude": null,
+            "longitude": null
+        },
+        "criteria": {
+            "starting_price_idr": 100000,
+            "rating": 4.6,
+            "rating_count": 5,
+            "review_count": 1,
+            "cleanliness_rating": 5.0,
+            "court_condition_rating": 4.6,
+            "facilities": [
+                "Jual Makanan Ringan",
+                "Jual Minuman",
+                "Parkir Mobil",
+                "Parkir Motor",
+                "Ruang Ganti",
+                "Shower",
+                "Toilet",
+                "Wi-fi",
+                "Cafe & Resto",
+                "Hot Shower"
+            ],
+            "lighting_evidence": null,
+            "surface_evidence": null,
+            "coach": {
+                "available": null,
+                "evidence": null
+            }
+        },
+        "description": "High Score Padel | Unleash Your Game Elevate your padel experience with our premium, fully air-conditioned indoor facilities. Stay cool and play hard with: 4 Double Courts: Perfect for your competitive matches. Dedicated Junior Court: Designed for the rising stars. Court size 5x12m. Book your session directly through the AYO app today!",
+        "rules": "1. Pemesanan & Kedatangan Seluruh pemain wajib melakukan pemesanan dan pembayaran lapangan terlebih dahulu (contoh: melalui aplikasi AYO) sebelum bermain. Harap tiba di venue minimal 15 menit sebelum jadwal penyewaan dimulai. Waktu sewa lapangan berjalan tepat waktu. Keterlambatan dari pihak pemain tidak akan memperpanjang durasi sewa. 2. Pakaian & Alas Kaki Wajib mengenakan pakaian olahraga yang pantas dan nyaman. Wajib menggunakan sepatu olahraga khusus (non-marking shoes) agar tidak merusak permukaan lapangan. Pemain yang mengenakan sepatu dengan hak, sandal, atau tanpa alas kaki tidak diizinkan memasuki lapangan. 3. Aturan Area Lapangan & Fasilitas Dilarang membawa makanan dan minuman manis/berwarna ke dalam area lapangan. Hanya air mineral dalam botol tertutup yang diperbolehkan. Area lapangan adalah area bebas asap rokok. Dilarang keras merokok atau menggunakan rokok elektrik (vape) di seluruh fasilitas indoor. Jaga kebersihan venue dengan selalu membuang sampah pada tempat yang telah disediakan. Harap segera mengosongkan lapangan ketika waktu sewa habis agar dapat digunakan oleh pemain berikutnya. 4. Keselamatan & Barang Pribadi Pemain bermain dengan risiko sendiri. Manajemen venue tidak bertanggung jawab atas cedera atau kecelakaan yang terjadi selama permainan berlangsung. Harap menjaga barang bawaan dan barang berharga masing-masing. Pihak venue tidak bertanggung jawab atas kehilangan, pencurian, atau kerusakan barang pribadi. Anak-anak yang menggunakan fasilitas Junior Court atau berada di area venue wajib didampingi dan diawasi oleh orang tua/wali setiap saat. 5. Perilaku & Sportivitas Junjung tinggi sportivitas dan saling menghargai sesama pemain, pelatih, serta staf venue. Dilarang keras membuang raket, merusak fasilitas jaring/kaca, atau bertindak agresif. Manajemen berhak meminta pengunjung yang melanggar aturan atau mengganggu ketertiban umum untuk meninggalkan venue tanpa pengembalian dana (refund).",
+        "images": [
+            "https://asset.ayo.co.id/image/venue/178731414570682.image_cropper_EB3812E4-6D60-4052-AAC7-B095C968D862-16454-00000DEF2D18B3CD.jpg_large.jpeg",
+            "https://asset.ayo.co.id/image/venue/178731414740466.image_cropper_2CCE2B80-566F-4C02-A529-B1E054E5ED4E-16454-00000DEF384278B1.jpg_medium.jpeg",
+            "https://asset.ayo.co.id/image/venue/178732667293655.image_cropper_EE4EE172-B327-46AD-B81B-CDD7DC639F5E-16454-00000E350554BDBA.jpg_medium.jpeg",
+            "https://asset.ayo.co.id/image/venue/178732667426443.image_cropper_EB5F2365-7DC7-429B-970D-668E723620DD-16454-00000E35595AE03E.jpg.jpeg"
+        ],
+        "source": {
+            "platform": "AYO Indonesia",
+            "url": "https://ayo.co.id/v/high-score-padel"
+        },
+        "scraped_at": "2026-09-20T21:39:26+07:00"
+    },
+    {
+        "name": "Raxa Padel Club",
+        "location": {
+            "address": "Jl. Wana Mulya Utama No.2, RT.002/RW.007, Karang Mulya, Kec. Karang Tengah, Kota Tangerang, Banten 15157, Indonesia",
+            "city": "Kota Tangerang",
+            "province": "Banten",
+            "latitude": null,
+            "longitude": null
+        },
+        "criteria": {
+            "starting_price_idr": 130000,
+            "rating": 5.0,
+            "rating_count": 238,
+            "review_count": 26,
+            "cleanliness_rating": 4.92,
+            "court_condition_rating": 4.91,
+            "facilities": [
+                "Cafe & Resto",
+                "Hot Shower",
+                "Parkir Mobil",
+                "Jual Minuman",
+                "Jual Makanan Ringan",
+                "Parkir Motor",
+                "Ruang Ganti",
+                "Shower",
+                "Toilet"
+            ],
+            "lighting_evidence": null,
+            "surface_evidence": null,
+            "coach": {
+                "available": null,
+                "evidence": null
+            }
+        },
+        "description": "Experience the thrill of padel on our top-quality courts. Book your game today at RAXA Padel Club feature super panoramic courts built to international standards. \"Grab your friends, book a court, and smash your way into a good time at RAXA Padel Club!”",
+        "rules": "Venue Rules 1.Punctuality Players must arrive on time. Game time will run according to the predetermined schedule without any extensions. 2. Technical Disruptions from the Operator. If a technical disruption from the operator (such as field repairs, power outages, etc.) prevents players from playing, the schedule will be rescheduled to the following week based on field availability. Cash reimbursements are not available. 3. No outside food and drink allowed Bringing outside food and drinks into the field is prohibited. Chewing gum, smoking, or spitting on the field is also prohibited. 4. No Drug and Alcohol allowed It is strictly prohibited to use drugs or consume alcoholic beverages in the venue area. 5. Prohibition on Carrying Weapons It is prohibited to bring sharp weapons or firearms into the area RAXA PADEL. 6. Prohibition of Violence and Disturbance. It is strictly prohibited to commit acts of violence, fights, or cause disturbances in the venue area. 7. Sport Shoes Required Players must wear appropriate sports shoes for padel. Sandals, non-sports shoes, or playing barefoot are not permitted. 8. Responsibiity of personal belongings Players are fully responsible for their personal belongings. Loss or damage to personal belongings is not the responsibility of RAXA PADEL. 9. Player Health Conditions Players must be in good health before playing. Any risks that arise during play, including accidents, injuries, or other medical conditions, are the player's personal responsibility and are not the responsibility of RAXA PADEL. 10. Cancellations and Schedule Changes Reservations cannot be canceled or refunded. Schedule change not allowed. 11. Prohibition on Bringing and Consuming Outside Food/Drinks Bringing outside food and drinks into the venue is prohibited. A cafe is available within the RAXA PADEL area for your convenience. 12. Prohibition on Bringing Outside Coaches. Bringing outside coaches into the RAXA PADEL area is prohibited. All training activities must be conducted by authorized coaches who have collaborated with RAXA PADEL. 13. Playing Equipment Racket rentals can be rent at RAXA PADEL. RAXA PADEL doesn't provide padel balls; you can bring your own or purchase them from our store. 14. No Pets Allowed It is prohibited to bring pets into the padel court area.",
+        "images": [
+            "https://asset.ayo.co.id/image/venue/178600424240417.image_cropper_9F308BB9-9089-4A2F-B63B-F9C2561F0D12-1067-0000009DF4BD8674.jpg_large.jpeg",
+            "https://asset.ayo.co.id/image/venue/175904156698026.image_cropper_1759041470150.jpg_medium.jpeg",
+            "https://asset.ayo.co.id/image/venue/175599621519126.image_cropper_1755996159780.jpg_medium.jpeg",
+            "https://asset.ayo.co.id/image/venue/175599621777605.image_cropper_1755996173600.jpg.jpeg",
+            "https://asset.ayo.co.id/image/venue/175599621957993.image_cropper_1755996190499.jpg.jpeg"
+        ],
+        "source": {
+            "platform": "AYO Indonesia",
+            "url": "https://ayo.co.id/v/raxa-padel-club"
+        },
+        "scraped_at": "2026-09-20T21:39:51+07:00"
+    }
+]
